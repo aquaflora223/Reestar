@@ -11,6 +11,9 @@ li{
     background-color: rgb(218, 137, 227);
     border: black solid;
     padding: 20px;
+  width: 250px;
+  height: 250px;
+
 
 }
 li:hover{
